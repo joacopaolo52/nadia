@@ -3,9 +3,9 @@ html {
 }
 
 body {
-    background-image: url(/img/felizcumple.jpg);
-    background-size: cover;
     height: 100vh;
+    background-image: url(img/felizcumple.jpg);
+    background-size: cover;
 }
 
 h1 {
